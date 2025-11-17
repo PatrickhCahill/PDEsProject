@@ -32,3 +32,4 @@ where the $\mathcal{F}$ term contains the deterministic mechanics and the sum ov
 3. Compare to the Cotter et al. 2019 approach to check that this is appropriate for SALT style problems (although it should be).
 4. Implement our own method based on this.
 5. Narrow down what we want to do with that.
+6. TESTING
